@@ -30,7 +30,7 @@ export default function Footer({top}){
                     <div className="row align-items-center">
                         <div className="col-sm-6">
                             <div className="text-sm-start">
-                                <p className="mb-0 fw-medium">© {new Date().getFullYear()} @newbalajimototrs Design & Develop with <i className="mdi mdi-heart text-danger"></i> by <Link href="http://wa.me/+916352360058" target="_blank" className="text-reset">Nai Bhavik</Link>.</p>
+                                <p className="mb-0 fw-medium">© {new Date().getFullYear()} @newbalajimotors Design & Develop with <i className="mdi mdi-heart text-danger"></i> by <Link href="http://wa.me/+916352360058" target="_blank" className="text-reset">Nai Bhavik</Link>.</p>
                             </div>
                         </div>
 {/* 
