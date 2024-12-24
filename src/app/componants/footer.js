@@ -33,13 +33,7 @@ export default function Footer({top}){
                                 <p className="mb-0 fw-medium">© {new Date().getFullYear()} @newbalajimotors Design & Develop with <i className="mdi mdi-heart text-danger"></i> by <Link href="http://wa.me/+916352360058" target="_blank" className="text-reset">Nai Bhavik</Link>.</p>
                             </div>
                         </div>
-{/* 
-                        <div className="col-sm-6 mt-4 mt-sm-0 pt-2 pt-sm-0">
-                            <ul className="list-unstyled social-icon foot-social-icon text-sm-end mb-0">
-                                <li className="list-inline-item"><Link href="https://www.instagram.com/shreethemes/" target="_blank" className="rounded"><FiInstagram className="fea icon-sm align-middle"/></Link></li>
-                                <li className="list-inline-item"><Link href="https://twitter.com/shreethemes" target="_blank" className="rounded"><FiTwitter className="fea icon-sm align-middle"/></Link></li>
-                            </ul>
-                        </div> */}
+
                     </div>
                 </div>
             </div>
