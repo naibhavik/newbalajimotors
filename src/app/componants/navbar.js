@@ -62,7 +62,7 @@ export default function Navbar({ navClass }) {
                             <Link href="/services">Services</Link>
                         </li>
                         <li className={pathname === '/aboutus' ? 'active' : ''}>
-                            <Link href="/aboutus">About</Link>
+                <Link href="/BookanAppointment">Book an Appointment</Link>
                         </li>
                         <li className={pathname === '/contactus' ? 'active' : ''}>
                             <Link href="/contactus">Contact Us</Link>
@@ -77,7 +77,7 @@ export default function Navbar({ navClass }) {
           display: ${isOpen ? 'block' : 'none'};
           background: non;
           position: absolute;
-          top: 60px;
+          top: 0px;
           left: 0;
           width: 100%;
           {/* z-index: 999; */}

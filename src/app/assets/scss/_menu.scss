@@ -347,7 +347,7 @@
     }
 
     &.nav-sticky{
-        background: $white;
+        background: white;
         box-shadow: $shadow;
         .navigation-menu {
             &.nav-light {
@@ -637,7 +637,7 @@
   
 @media (max-width: 991px) {
     #topnav {
-        background-color: $white;
+        background-color: white;
         box-shadow: $shadow;
         min-height: 74px;
         .logo {
